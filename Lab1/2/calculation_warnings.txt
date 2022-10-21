@@ -1,0 +1,7 @@
+2022-Oct-18 18:09:33
+Computer name:	DESKTOP-6946C8R
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Project(1)
+
+Warnings on last iteration: 
